@@ -45,5 +45,8 @@ and other Qt objects in ```ASSERT``` macros.
 
 The files can be compiled into a library (a qmake build file is included) or just included directly with the test project.
 
+## More Information
+
+More information on using the CppUnit with Qt creator is available [here](http://www.codegardening.com/2016/05/using-cppunit-with-qtcreator.html "Using CppUnit with QtCreator")
 
 
